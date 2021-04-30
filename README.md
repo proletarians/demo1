@@ -2,9 +2,9 @@
 # head
 ## head
 ### head
-*It is* amazing.
+*It is amazing.*
 
-**It is** amazing.
+**It is amazing.**
 
 ~~It is~~ amazing.
 
