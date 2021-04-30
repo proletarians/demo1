@@ -28,7 +28,7 @@
 
 <p>you are sad.</p >
 
-![努力奋斗](https://github.com/luojie21180128/luojie/blob/main/12.jpg)
+![努力奋斗](https://github.com/proletarians/demo1/blob/main/6a600c338744ebf8226d5703d4f9d72a6059a7e9.jpg)
 
 ```python
 def resort(a1):
@@ -39,7 +39,7 @@ return a1
 #include<stdio.h>
 int main(){
 printf("hello github!");
-return 0;}
+}
 
 ```
 | 左对齐 | 右对齐 | 居中对齐 |
