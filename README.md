@@ -1,7 +1,7 @@
 [跳转](https://github.com/proletarians/demo1/blob/main/next.md)
-# head
-## head
-### head
+# 标题
+## 标题
+### 标题
 *It is amazing.*
 
 **It is amazing.**
