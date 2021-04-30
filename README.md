@@ -1,4 +1,4 @@
-[跳转](https://github.com/luojie21180128/luojie/blob/main/next.md)
+[跳转](https://github.com/proletarians/demo1/blob/main/next.md)
 # head
 ## head
 ### head
