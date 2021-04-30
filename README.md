@@ -1,17 +1,17 @@
-[jump](https://github.com/luojie21180128/luojie/blob/main/next.md)
-# jump
+[跳转](https://github.com/luojie21180128/luojie/blob/main/next.md)
+# head
 ## head
 ### head
-*It is* crazy.
+*It is* amazing.
 
-**It is** crazy.
+**It is** amazing.
 
-~~It is~~ crazy.
+~~It is~~ amazing.
 
 ---
 ---
 
->This is a dog
+>This is a cat
 
 [百度](http://www.baidu.com)
 
@@ -31,14 +31,14 @@
 ![努力奋斗](https://github.com/luojie21180128/luojie/blob/main/12.jpg)
 
 ```python
-def add(num1,num2):
-return num1+num2
+def resort(a1):
+return a1
 ```
 
 ```c
 #include<stdio.h>
 int main(){
-print("hello world!");
+printf("hello github!");
 return 0;}
 
 ```
